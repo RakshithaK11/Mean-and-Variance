@@ -1,4 +1,5 @@
-#  Mean and variance of a discrete  distribution
+DATE:
+# EXP NO: 1- Mean and variance of a discrete  distribution
 
 
 # Aim : 
@@ -75,9 +76,6 @@ print("The Mean arrival rate is %.3f "%mean)
 print("The Variance of arrival from feeder is %.3f "%var) 
 print("The Standard deviation of arrival from feeder is %.3F "%SD)
 ~~~
-
-
-
 
 # Output : 
 ![image](https://github.com/RakshithaK11/Mean-and-Variance/assets/139336455/7f68f4f3-3cdc-42e1-862e-97a89a55c722)
